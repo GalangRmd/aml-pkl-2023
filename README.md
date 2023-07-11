@@ -1,1 +1,1 @@
-ya galang
+#ya galang
